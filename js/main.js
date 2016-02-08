@@ -10,6 +10,8 @@ var players = (function(){
 	    	});
 	    },
 	    dataType:'json'
+
+
 	});
 
 })();
